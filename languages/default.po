@@ -1,0 +1,2752 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fancy Product Designer - WooCommerce plugin\n"
+"POT-Creation-Date: 2015-08-15 12:43+0100\n"
+"PO-Revision-Date: 2015-08-15 12:43+0100\n"
+"Last-Translator: Rafael Dery <webmaster@radykal.de>\n"
+"Language-Team: radykal\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../fancy-product-designer.php:93 ../fancy-product-designer.php:103
+#: ../admin/modals/modal-individual-product-settings.php:74
+msgid "Fancy Design Categories"
+msgstr ""
+
+#: ../fancy-product-designer.php:94
+msgid "Fancy Design Category"
+msgstr ""
+
+#: ../fancy-product-designer.php:95
+msgid "Search Design Categories"
+msgstr ""
+
+#: ../fancy-product-designer.php:96
+msgid "All Design Categories"
+msgstr ""
+
+#: ../fancy-product-designer.php:97
+msgid "Parent Design Category"
+msgstr ""
+
+#: ../fancy-product-designer.php:98
+msgid "Parent Design Category:"
+msgstr ""
+
+#: ../fancy-product-designer.php:99
+msgid "Edit Design Category"
+msgstr ""
+
+#: ../fancy-product-designer.php:100
+msgid "Update Design Category"
+msgstr ""
+
+#: ../fancy-product-designer.php:101
+msgid "Add New Design Category"
+msgstr ""
+
+#: ../fancy-product-designer.php:102
+msgid "New Design Category Name"
+msgstr ""
+
+#: ../admin/class-admin-ajax.php:82 ../admin/class-admin-ajax.php:585
+msgid "Product successfully created!"
+msgstr ""
+
+#: ../admin/class-admin-ajax.php:82
+msgid "Product could not be created. Please try again!"
+msgstr ""
+
+#: ../admin/class-admin-ajax.php:117 ../admin/class-admin-ajax.php:449
+msgid "Product Updated!"
+msgstr ""
+
+#: ../admin/class-admin-ajax.php:193
+msgid "Category successfully created!"
+msgstr ""
+
+#: ../admin/class-admin-ajax.php:193
+msgid "Category could not be created. Please try again!"
+msgstr ""
+
+#: ../admin/class-admin-ajax.php:362
+msgid "View Updated!"
+msgstr ""
+
+#: ../admin/class-admin-ajax.php:522
+msgid "Template successfully created."
+msgstr ""
+
+#: ../admin/class-admin-ajax.php:526
+msgid "Template could not be stored. Please try again!"
+msgstr ""
+
+#: ../admin/class-admin-ajax.php:593
+msgid "Fancy Product could not be stored. Please try again!"
+msgstr ""
+
+#: ../admin/class-admin-designs.php:28 ../admin/class-admin-menus.php:52
+msgid "Manage Fancy Designs"
+msgstr ""
+
+#: ../admin/class-admin-designs.php:29
+msgid "Create Category"
+msgstr ""
+
+#: ../admin/class-admin-designs.php:41
+msgid "No categories found. You need to create a category first!"
+msgstr ""
+
+#: ../admin/class-admin-designs.php:101
+msgid "Designs saved."
+msgstr ""
+
+#: ../admin/class-admin-designs.php:115
+#: ../admin/class-admin-manage-products.php:166
+msgid "Categories"
+msgstr ""
+
+#: ../admin/class-admin-designs.php:134
+msgid "Designs in \""
+msgstr ""
+
+#: ../admin/class-admin-designs.php:140
+msgid "Add Designs"
+msgstr ""
+
+#: ../admin/class-admin-designs.php:141
+msgid "Edit Category Options"
+msgstr ""
+
+#: ../admin/class-admin-designs.php:176
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:87
+#: ../admin/class-admin-menus.php:32
+msgid "Manage Fancy Products"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:104
+#: ../admin/class-admin-menus.php:33 ../admin/views/html-admin-meta-box.php:48
+msgid "Fancy Products"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:105
+#: ../admin/class-admin-manage-products.php:167
+msgid "Add New"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:106
+msgid "Import"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:107
+msgid "Load Template"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:108
+msgid "Load a demo to get started"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:108
+msgid "Load Demo"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:113
+msgid "Filter:"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:115
+msgid "ID"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:116
+msgid "Title"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:119
+msgid "Ascending"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:120
+msgid "Descending"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:124
+msgid "Search Fancy Products..."
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:125
+msgid "Search"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:130
+msgid "No Fancy Products found!"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:191
+msgid "Add View"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:191
+msgid "Edit Title"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:191
+#: ../admin/class-admin-manage-products.php:199
+msgid "Edit Options"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:191
+#: ../admin/views/html-order-viewer.php:17
+msgid "Export"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:191
+msgid "Save as template"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:191
+#: ../admin/class-admin-manage-products.php:199
+#: ../admin/class-admin-manage-products.php:213
+#: ../admin/class-admin-shortcode-order.php:154
+#: ../inc/settings/class-labels-settings.php:481
+#: ../inc/settings/class-labels-settings.php:485
+msgid "Remove"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:199
+msgid "Edit layers in product builder"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:199
+msgid "Edit"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:199
+msgid "Duplicate"
+msgstr ""
+
+#: ../admin/class-admin-manage-products.php:213
+msgid "Show only products of this category"
+msgstr ""
+
+#: ../admin/class-admin-menus.php:21 ../admin/class-admin-menus.php:22
+#: ../admin/class-admin-product.php:24 ../admin/class-admin.php:75
+#: ../admin/class-admin.php:83 ../admin/class-admin.php:100
+msgid "Fancy Product Designer"
+msgstr ""
+
+#: ../admin/class-admin-menus.php:42 ../admin/class-admin-menus.php:43
+msgid "Product Builder"
+msgstr ""
+
+#: ../admin/class-admin-menus.php:53
+msgid "Fancy Designs"
+msgstr ""
+
+#: ../admin/class-admin-menus.php:62 ../admin/class-admin-menus.php:63
+msgid "Orders"
+msgstr ""
+
+#: ../admin/class-admin-menus.php:72 ../admin/class-admin-menus.php:73
+msgid "Settings"
+msgstr ""
+
+#: ../admin/class-admin-menus.php:84
+msgid "Documentation"
+msgstr ""
+
+#: ../admin/class-admin-order.php:25
+msgid "Fancy Product Designer - Order Viewer"
+msgstr ""
+
+#: ../admin/class-admin-order.php:38
+msgid "Fancy Product"
+msgstr ""
+
+#: ../admin/class-admin-order.php:74
+msgid "Load in Order Viewer"
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:16
+msgid "Fancy Product Builder"
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:32
+msgid "There are no fancy products!"
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:77
+msgid "Elements saved."
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:83
+msgid "Select the view of your Fancy Product:"
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:133
+msgid "Save Layers"
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:142
+msgid "Layers"
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:146
+msgid "Add Image"
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:147
+msgid "Add Text"
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:148
+msgid "Add Curved Text"
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:149
+msgid "Add Upload Zone"
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:153
+msgid "Change the layer order by dragging elements up or down."
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:185
+msgid "Layer Options"
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:195
+msgid "Product Stage"
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:199
+#: ../inc/settings/class-labels-settings.php:393
+#: ../inc/settings/class-labels-settings.php:397
+msgid "Center Horizontal"
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:200
+#: ../inc/settings/class-labels-settings.php:401
+#: ../inc/settings/class-labels-settings.php:405
+msgid "Center Vertical"
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:201
+msgid "Duplicate Layer"
+msgstr ""
+
+#: ../admin/class-admin-product-builder.php:214
+#: ../admin/class-admin-scripts-styles.php:154
+msgid "Change Image Source"
+msgstr ""
+
+#: ../admin/class-admin-product.php:25
+msgid "Enable Fancy Product Designer for this product?"
+msgstr ""
+
+#: ../admin/class-admin-product.php:36
+msgid "FPD Integration"
+msgstr ""
+
+#: ../admin/class-admin-scripts-styles.php:36
+#: ../admin/class-admin-scripts-styles.php:103
+msgid "Please enter a title"
+msgstr ""
+
+#: ../admin/class-admin-scripts-styles.php:37
+#: ../admin/class-admin-scripts-styles.php:105
+msgid "Something went wrong. Please try again!"
+msgstr ""
+
+#: ../admin/class-admin-scripts-styles.php:38
+#: ../admin/class-admin-scripts-styles.php:108
+msgid "Add imported image source to media library?"
+msgstr ""
+
+#: ../admin/class-admin-scripts-styles.php:39
+#: ../admin/class-admin-scripts-styles.php:104
+msgid "Are you sure you want to delete it?."
+msgstr ""
+
+#: ../admin/class-admin-scripts-styles.php:106
+msgid "Please select a Fancy Product first to assign the category!"
+msgstr ""
+
+#: ../admin/class-admin-scripts-styles.php:107
+msgid "This product does not contain any views!"
+msgstr ""
+
+#: ../admin/class-admin-scripts-styles.php:109
+msgid ""
+"Sorry, but the selected file is not a valid JSON object. Are you sure you "
+"have selected the correct file to import?"
+msgstr ""
+
+#: ../admin/class-admin-scripts-styles.php:110
+msgid "Choose a thumbnail"
+msgstr ""
+
+#: ../admin/class-admin-scripts-styles.php:148
+msgid "Enter a title for the element"
+msgstr ""
+
+#: ../admin/class-admin-scripts-styles.php:149
+msgid "Choose an element image"
+msgstr ""
+
+#: ../admin/class-admin-scripts-styles.php:150
+#: ../admin/modals/modal-edit-design-category-options.php:148
+#: ../admin/modals/modal-edit-product-options.php:33
+#: ../admin/modals/modal-edit-view-options.php:85
+#: ../admin/modals/modal-individual-product-settings.php:366
+msgid "Set"
+msgstr ""
+
+#: ../admin/class-admin-scripts-styles.php:151
+msgid "Enter your text."
+msgstr ""
+
+#: ../admin/class-admin-scripts-styles.php:152
+msgid "Remove element?"
+msgstr ""
+
+#: ../admin/class-admin-scripts-styles.php:153
+msgid "You have not saved your changes!"
+msgstr ""
+
+#: ../admin/class-admin-scripts-styles.php:180
+msgid "Choose a Design Image"
+msgstr ""
+
+#: ../admin/class-admin-shortcode-order.php:25
+msgid "&laquo;"
+msgstr ""
+
+#: ../admin/class-admin-shortcode-order.php:26
+msgid "&raquo;"
+msgstr ""
+
+#: ../admin/class-admin-shortcode-order.php:36
+msgid "Orders via Shortcode"
+msgstr ""
+
+#: ../admin/class-admin-shortcode-order.php:42
+msgid ""
+"Orders made with WooCommerce can be viewed in the order details of a "
+"WooCommerce order!"
+msgstr ""
+
+#: ../admin/class-admin-shortcode-order.php:47
+msgid "Choose Order"
+msgstr ""
+
+#: ../admin/class-admin-shortcode-order.php:82
+msgid "Order Viewer"
+msgstr ""
+
+#: ../admin/class-admin.php:153
+msgid ""
+"Please update WooCommerce to the latest version! Fancy Product Designer only "
+"works with version 2.1 or newer."
+msgstr ""
+
+#: ../admin/class-admin.php:159
+msgid ""
+"GD library is not installed on your web server. If you do not know how to "
+"install GD library, please ask your server provider!"
+msgstr ""
+
+#: ../admin/fpd-admin-functions.php:8
+msgid "Support Center"
+msgstr ""
+
+#: ../admin/fpd-admin-functions.php:30
+msgid ""
+"You are not using the <a href=\"http://fancyproductdesigner.com/woocommerce-"
+"plugin/documentation/changelog/\" target=\"_blank\">latest version</a> of "
+"Fancy Product Designer. Please go to your <a href=\"http://codecanyon.net/"
+"downloads\" target=\"_blank\">downloads tab on codecanyon</a> and download "
+"it again. Read also the <a href=\"http://fancyproductdesigner.com/"
+"woocommerce-plugin/documentation/upgrading/\" target=\"_blank\">upgrading "
+"documentation</a> how to install a new version."
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:4
+msgid "Options"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:5
+msgid ""
+"Here you can set custom options for all designs in a single category or for "
+"every design element separately."
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:14
+msgid "Design Thumbnail"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:17
+msgid "Set Design Thumbnail"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:30
+msgid "Enable Options"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:36
+#: ../inc/settings/class-default-element-options-settings.php:17
+#: ../inc/settings/class-default-element-options-settings.php:314
+msgid "X-Position"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:40
+#: ../inc/settings/class-default-element-options-settings.php:29
+#: ../inc/settings/class-default-element-options-settings.php:327
+msgid "Y-Position"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:44
+#: ../inc/settings/class-default-element-options-settings.php:41
+#: ../inc/settings/class-default-element-options-settings.php:340
+msgid "Z-Position"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:48
+#: ../admin/views/html-product-builder-parameters-form.php:29
+#: ../inc/settings/class-labels-settings.php:369
+#: ../inc/settings/class-labels-settings.php:373
+msgid "Scale"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:52
+msgid "Color(s)"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:56
+#: ../admin/modals/modal-individual-product-settings.php:194
+#: ../admin/modals/modal-individual-product-settings.php:301
+#: ../admin/views/html-product-builder-parameters-form.php:41
+#: ../inc/settings/class-default-element-options-settings.php:63
+#: ../inc/settings/class-default-element-options-settings.php:362
+msgid "Price"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:60
+#: ../inc/settings/class-default-element-options-settings.php:76
+#: ../inc/settings/class-default-element-options-settings.php:375
+msgid "Auto-Center"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:67
+#: ../admin/views/html-product-builder-parameters-form.php:98
+#: ../inc/settings/class-default-element-options-settings.php:83
+#: ../inc/settings/class-default-element-options-settings.php:382
+msgid "Draggable"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:74
+#: ../admin/views/html-product-builder-parameters-form.php:104
+#: ../inc/settings/class-default-element-options-settings.php:90
+#: ../inc/settings/class-default-element-options-settings.php:389
+msgid "Rotatable"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:81
+#: ../admin/views/html-product-builder-parameters-form.php:110
+#: ../inc/settings/class-default-element-options-settings.php:97
+#: ../inc/settings/class-default-element-options-settings.php:396
+msgid "Resizable"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:88
+#: ../admin/modals/modal-individual-product-settings.php:198
+#: ../admin/views/html-product-builder-parameters-form.php:48
+#: ../inc/settings/class-default-element-options-settings.php:111
+#: ../inc/settings/class-default-element-options-settings.php:410
+msgid "Replace"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:94
+#: ../admin/views/html-product-builder-parameters-form.php:128
+#: ../inc/settings/class-default-element-options-settings.php:120
+#: ../inc/settings/class-default-element-options-settings.php:419
+msgid "Auto-Select"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:101
+#: ../admin/views/html-product-builder-parameters-form.php:122
+#: ../inc/settings/class-default-element-options-settings.php:127
+#: ../inc/settings/class-default-element-options-settings.php:426
+msgid "Stay On Top"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:108
+#: ../admin/modals/modal-individual-product-settings.php:202
+#: ../admin/modals/modal-individual-product-settings.php:271
+#: ../admin/views/html-product-builder-parameters-form.php:4
+msgid "Bounding Box"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:111
+#: ../admin/modals/modal-individual-product-settings.php:206
+#: ../admin/modals/modal-individual-product-settings.php:275
+msgid "Custom Bounding Box"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:112
+#: ../admin/modals/modal-individual-product-settings.php:207
+#: ../admin/modals/modal-individual-product-settings.php:276
+#: ../admin/views/html-product-builder-parameters-form.php:140
+msgid "Use another element as bounding box"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:117
+#: ../admin/modals/modal-individual-product-settings.php:212
+#: ../admin/modals/modal-individual-product-settings.php:281
+#: ../inc/settings/class-default-element-options-settings.php:159
+#: ../inc/settings/class-default-element-options-settings.php:502
+msgid "Bounding Box X-Position"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:121
+#: ../admin/modals/modal-individual-product-settings.php:216
+#: ../admin/modals/modal-individual-product-settings.php:285
+#: ../inc/settings/class-default-element-options-settings.php:171
+#: ../inc/settings/class-default-element-options-settings.php:514
+msgid "Bounding Box Y-Position"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:125
+#: ../admin/modals/modal-individual-product-settings.php:220
+#: ../admin/modals/modal-individual-product-settings.php:289
+#: ../inc/settings/class-default-element-options-settings.php:183
+#: ../inc/settings/class-default-element-options-settings.php:526
+msgid "Bounding Box Width"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:129
+#: ../admin/modals/modal-individual-product-settings.php:224
+#: ../admin/modals/modal-individual-product-settings.php:293
+#: ../inc/settings/class-default-element-options-settings.php:195
+#: ../inc/settings/class-default-element-options-settings.php:538
+msgid "Bounding Box Height"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:133
+#: ../admin/modals/modal-individual-product-settings.php:228
+#: ../admin/modals/modal-individual-product-settings.php:297
+#: ../inc/settings/class-default-element-options-settings.php:150
+#: ../inc/settings/class-default-element-options-settings.php:493
+msgid "Bounding Box Target"
+msgstr ""
+
+#: ../admin/modals/modal-edit-design-category-options.php:137
+#: ../inc/settings/class-default-element-options-settings.php:207
+#: ../inc/settings/class-default-element-options-settings.php:550
+msgid "Bounding Box Clipping"
+msgstr ""
+
+#: ../admin/modals/modal-edit-product-options.php:4
+msgid "Fancy Product Options"
+msgstr ""
+
+#: ../admin/modals/modal-edit-view-options.php:4
+msgid "Fancy View Options"
+msgstr ""
+
+#: ../admin/modals/modal-edit-view-options.php:6
+msgid ""
+"Here you can adjust some options for a single view. This allows, among other "
+"things to use different prices in different views."
+msgstr ""
+
+#: ../admin/modals/modal-edit-view-options.php:20
+#: ../admin/modals/modal-edit-view-options.php:29
+msgid "This price will be used for custom added images."
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:4
+msgid "Individual Settings"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:5
+msgid "Here you can set individual product designer settings for this product."
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:8
+#: ../admin/views/html-product-builder-parameters-form.php:2
+#: ../inc/settings/class-settings.php:34
+msgid "General"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:9
+#: ../inc/settings/class-settings.php:61
+msgid "Image Options"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:10
+#: ../inc/settings/class-settings.php:63
+msgid "Custom Text Options"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:12
+#: ../inc/settings/class-settings.php:42
+msgid "WooCommerce"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:20
+#: ../inc/settings/class-general-settings.php:41
+msgid "Product Designer Frame Shadow"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:23
+#: ../admin/modals/modal-individual-product-settings.php:37
+#: ../admin/modals/modal-individual-product-settings.php:51
+#: ../admin/modals/modal-individual-product-settings.php:111
+#: ../admin/modals/modal-individual-product-settings.php:140
+#: ../admin/modals/modal-individual-product-settings.php:170
+#: ../admin/modals/modal-individual-product-settings.php:180
+#: ../admin/modals/modal-individual-product-settings.php:205
+#: ../admin/modals/modal-individual-product-settings.php:274
+#: ../admin/modals/modal-individual-product-settings.php:319
+#: ../admin/modals/modal-individual-product-settings.php:333
+#: ../admin/modals/modal-individual-product-settings.php:344
+#: ../admin/modals/modal-individual-product-settings.php:354
+msgid "Use Option From Main Settings"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:34
+#: ../inc/settings/class-general-settings.php:51
+msgid "Dialog Box Positioning"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:48
+msgid "View Selection Position"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:62
+#: ../inc/settings/class-general-settings.php:71
+msgid "View Selection Items Floating"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:66
+msgid "Product Stage Width"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:70
+msgid "Product Stage Height"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:76
+msgid "All Categories"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:90
+msgid "Available Fonts"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:92
+msgid "All Fonts"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:104
+#: ../inc/settings/class-general-settings.php:394
+msgid "\"Start Customizing\" Button"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:108
+#: ../inc/settings/class-general-settings.php:403
+msgid "Open in lightbox"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:112
+#: ../admin/modals/modal-individual-product-settings.php:141
+#: ../admin/modals/modal-individual-product-settings.php:171
+#: ../admin/modals/modal-individual-product-settings.php:181
+#: ../admin/modals/modal-individual-product-settings.php:346
+#: ../admin/modals/modal-individual-product-settings.php:356
+#: ../admin/views/html-product-builder-parameters-form.php:285
+#: ../admin/views/html-product-builder-parameters-form.php:292
+#: ../admin/views/html-product-builder-parameters-form.php:299
+#: ../admin/views/html-product-builder-parameters-form.php:306
+#: ../admin/views/html-product-builder-parameters-form.php:313
+#: ../inc/settings/class-general-settings.php:194
+#: ../inc/settings/class-general-settings.php:206
+#: ../inc/settings/class-wc-settings.php:47
+#: ../inc/settings/class-wc-settings.php:59
+#: ../inc/settings/class-wc-settings.php:95
+msgid "No"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:113
+#: ../admin/modals/modal-individual-product-settings.php:142
+#: ../admin/modals/modal-individual-product-settings.php:172
+#: ../admin/modals/modal-individual-product-settings.php:182
+#: ../admin/modals/modal-individual-product-settings.php:345
+#: ../admin/modals/modal-individual-product-settings.php:355
+#: ../admin/views/html-product-builder-parameters-form.php:284
+#: ../admin/views/html-product-builder-parameters-form.php:291
+#: ../admin/views/html-product-builder-parameters-form.php:298
+#: ../admin/views/html-product-builder-parameters-form.php:305
+#: ../admin/views/html-product-builder-parameters-form.php:312
+#: ../inc/settings/class-general-settings.php:193
+#: ../inc/settings/class-general-settings.php:205
+#: ../inc/settings/class-wc-settings.php:46
+#: ../inc/settings/class-wc-settings.php:58
+#: ../inc/settings/class-wc-settings.php:94
+msgid "Yes"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:118
+msgid "Background Type"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:120
+msgid "Image"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:121
+#: ../inc/settings/class-labels-settings.php:193
+#: ../inc/settings/class-labels-settings.php:197
+msgid "Color"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:125
+msgid "Background Image"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:127
+msgid "Set Image"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:133
+msgid "Background Color"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:137
+#: ../inc/settings/class-general-settings.php:378
+msgid "Replace Initial Elements"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:147
+msgid "Disable Image Upload"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:151
+msgid "Disable Custom Text"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:155
+msgid "Disable Designs"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:159
+msgid "Disable Facebook"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:163
+msgid "Disable Instagram"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:167
+msgid "Color Prices for Images"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:177
+msgid "Color Prices for Texts"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:190
+msgid "Common Image"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:232
+msgid "Hide Filters"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:237
+msgid "Custom Image"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:241
+#: ../inc/settings/class-default-element-options-settings.php:233
+msgid "Minimum Width"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:245
+#: ../inc/settings/class-default-element-options-settings.php:246
+msgid "Minimum Height"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:249
+#: ../inc/settings/class-default-element-options-settings.php:259
+msgid "Maximum Width"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:253
+#: ../inc/settings/class-default-element-options-settings.php:272
+msgid "Maximum Height"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:257
+#: ../inc/settings/class-default-element-options-settings.php:285
+msgid "Resize To Width"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:261
+#: ../inc/settings/class-default-element-options-settings.php:298
+msgid "Resize To Height"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:305
+#: ../admin/views/html-product-builder-parameters-form.php:55
+#: ../inc/settings/class-default-element-options-settings.php:54
+#: ../inc/settings/class-default-element-options-settings.php:353
+#: ../inc/settings/class-settings.php:55
+msgid "Colors"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:316
+#: ../inc/settings/class-wc-settings.php:17
+msgid "Product Designer Positioning"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:330
+#: ../inc/settings/class-wc-settings.php:27
+msgid "Product Designer Floating"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:334
+#: ../inc/settings/class-wc-settings.php:33
+msgid "None"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:335
+#: ../inc/settings/class-default-element-options-settings.php:595
+#: ../inc/settings/class-default-element-options-settings.php:613
+#: ../inc/settings/class-wc-settings.php:34
+msgid "Left"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:336
+#: ../inc/settings/class-default-element-options-settings.php:597
+#: ../inc/settings/class-wc-settings.php:35
+msgid "Right"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:341
+#: ../inc/settings/class-wc-settings.php:40
+msgid "Hide Product Image"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:351
+#: ../inc/settings/class-wc-settings.php:52
+msgid "Fullwidth Summary"
+msgstr ""
+
+#: ../admin/modals/modal-individual-product-settings.php:432
+msgid "Choose a background image"
+msgstr ""
+
+#: ../admin/modals/modal-load-demo.php:4
+msgid "Load an example demo"
+msgstr ""
+
+#: ../admin/modals/modal-load-demo.php:15
+#: ../inc/settings/class-labels-settings.php:81
+#: ../inc/settings/class-labels-settings.php:85
+msgid "Load"
+msgstr ""
+
+#: ../admin/modals/modal-load-template.php:4
+msgid "Load a template"
+msgstr ""
+
+#: ../admin/modals/modal-load-template.php:8
+msgid ""
+"No templates created. You can create a template via the action bar in a "
+"product list item."
+msgstr ""
+
+#: ../admin/views/html-admin-meta-box.php:15
+msgid "Individual Product Settings"
+msgstr ""
+
+#: ../admin/views/html-admin-meta-box.php:22
+msgid "Source Type"
+msgstr ""
+
+#: ../admin/views/html-admin-meta-box.php:23
+msgid "Category"
+msgstr ""
+
+#: ../admin/views/html-admin-meta-box.php:24
+msgid "Product"
+msgstr ""
+
+#: ../admin/views/html-admin-meta-box.php:29
+msgid "Fancy Product Categories"
+msgstr ""
+
+#: ../admin/views/html-admin-meta-box.php:30
+#: ../admin/views/html-admin-meta-box.php:49
+msgid "Select one ore more!"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:20
+msgid "Output File"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:23
+msgid "PDF"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:26
+msgid "IMAGE"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:31
+#: ../admin/views/html-order-viewer.php:144
+msgid "Image Format"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:41
+msgid ""
+"Exporting as SVG format allows to create a multi-layer PDF. Bounding box "
+"clippings are ignored!"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:46
+msgid "Size"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:48
+msgid "DPI - Pixel Converter"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:52
+msgid "PDF width in mm"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:57
+msgid "PDF height in mm"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:62
+msgid "Scale Factor"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:67
+msgid "Image DPI"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:72
+msgid "View(s)"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:75
+msgid "ALL"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:78
+msgid "CURRENT SHOWING"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:84
+#: ../admin/views/html-order-viewer.php:115
+#: ../admin/views/html-order-viewer.php:198
+msgid "Create"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:85
+msgid "The created pdfs will be stored in: "
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:94
+msgid "Additional Tools"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:95
+msgid "Change Stage Dimensions"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:101
+msgid "Width in pixels"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:105
+msgid "Height in pixels"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:111
+msgid ""
+"The stage dimensions are not sent with orders that are made with lower "
+"version than 2.0.0 of Fancy Product Designer. Use this tool to change the "
+"stage dimensions."
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:113
+msgid "New Fancy Product"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:114
+msgid ""
+"Create a new Fancy Product with the current showing views in the Order "
+"Viewer."
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:124
+msgid "Single Elements"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:129
+msgid "Added By Customer"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:130
+msgid ""
+"This only works for orders that are made with version 2.0.0 or newer of "
+"Fancy Product Designer."
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:136
+msgid "Saved Images On Server"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:141
+msgid "Export Options"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:154
+msgid ""
+"When creating an SVG image with a text element, make sure that the font you "
+"are using is installed on your computer otherwise it will not be shown."
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:160
+msgid "Padding around exported element."
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:166
+msgid "DPI."
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:175
+msgid ""
+"Use origin size, that will set the scaling to 1, when exporting the image."
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:183
+msgid "Save exported image on server."
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:184
+msgid ""
+"You can save all elements of the Fancy Product as an image on your server, "
+"to be stored in: "
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:192
+msgid "Export without bounding box clipping if element has one."
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:266
+msgid "Loading data..."
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:293
+msgid "Order data could not be loaded. Please try again!"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:476
+msgid ""
+"You cannot create an SVG file from a bitmap, you can only do this by using a "
+"text element or another SVG image file"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:583
+msgid "Image creation failed. Please try again!"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:644
+msgid "No element selected!"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:693
+msgid "No width has been entered. Please set one!"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:697
+msgid "No height has been entered. Please set one!"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:747
+msgid ""
+"PDF creation failed - There is too much data being sent. To fix this please "
+"increase the WordPress memory limit in your php.ini file. You could export a "
+"single view or use the JPEG image format! "
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:757
+msgid ""
+"JSON could not be parsed. Go to wp-content/fancy_products_orders/pdfs and "
+"check if a PDF has been generated."
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:774
+msgid "No Fancy Product is selected. Please open one from the Order Items!"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:783
+msgid ""
+"Your Pop-Up Blocker is enabled so the image will be opened in a new window. "
+"Please choose to allow this website in your pop-up blocker!"
+msgstr ""
+
+#: ../admin/views/html-order-viewer.php:827
+msgid "Could not load order item image. Please try again!"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:3
+msgid "Modifications"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:5
+msgid "Text"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:6
+msgid "Media Types"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:22
+msgid "Position"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:24
+#: ../admin/views/html-product-builder-parameters-form.php:149
+msgid "x"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:25
+#: ../admin/views/html-product-builder-parameters-form.php:150
+msgid "y"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:35
+#: ../inc/settings/class-labels-settings.php:361
+#: ../inc/settings/class-labels-settings.php:365
+msgid "Angle"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:44
+msgid "Always use a dot as the decimal separator!"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:51
+#: ../inc/settings/class-default-element-options-settings.php:112
+#: ../inc/settings/class-default-element-options-settings.php:411
+msgid "Elements with the same replace name will replace each other."
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:59
+msgid "Enable Color Control"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:60
+msgid ""
+"To change the color of this element as soon as the color of an element in "
+"first view changes, you can enter a title of an element in the first view. "
+"This operation works only with PNG images that are NOT in the first view."
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:62
+msgid "Enter the title of an image element in the first view!"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:65
+msgid "e.g. #000000,#ffffff"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:66
+#: ../framework/class-admin-settings.php:432
+#: ../inc/settings/class-labels-settings.php:25
+#: ../inc/settings/class-labels-settings.php:29
+msgid "Add"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:67
+msgid ""
+"One color value: Colorpicker, Multiple color values: Fixed color palette"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:72
+msgid "Current Color"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:74
+msgid "e.g. #000000"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:75
+msgid ""
+"Enter one hexadecimal color to change the initial color of this element."
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:79
+#: ../inc/settings/class-labels-settings.php:209
+#: ../inc/settings/class-labels-settings.php:213
+msgid "Opacity"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:82
+msgid "A value between 0-1"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:92
+msgid "Removable"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:116
+msgid "Unlock Layer Position"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:146
+msgid "Define Bounding Box"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:151
+msgid "width"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:152
+msgid "height"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:154
+msgid "Title of an image element in the same view."
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:158
+msgid "Clip element into bounding box"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:171
+msgid "Font"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:173
+msgid "Select a font"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:183
+#: ../inc/settings/class-labels-settings.php:289
+#: ../inc/settings/class-labels-settings.php:293
+msgid "Styling"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:196
+msgid "Multiline Alignment"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:207
+msgid "X-Axis Reference Point"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:218
+#: ../inc/settings/class-default-element-options-settings.php:579
+msgid "Maximum Characters"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:222
+#: ../inc/settings/class-labels-settings.php:249
+#: ../inc/settings/class-labels-settings.php:253
+msgid "Line Height"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:227
+msgid "Editable"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:235
+#: ../inc/settings/class-default-element-options-settings.php:433
+msgid "Patternable"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:243
+#: ../inc/settings/class-default-element-options-settings.php:441
+msgid "Curvable"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:247
+msgid "Allow customer to switch between curvable and normal text."
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:252
+msgid "Curved Text Spacing"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:261
+msgid "Curved Text Radius"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:269
+msgid "Curved Text Reverse"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:282
+msgid "Image Uploads"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:289
+msgid "Custom Texts"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:296
+msgid "Designs"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:303
+msgid "Facebook Photos"
+msgstr ""
+
+#: ../admin/views/html-product-builder-parameters-form.php:310
+msgid "Instagram Photos"
+msgstr ""
+
+#: ../framework/class-admin-settings.php:189
+msgid "Settings saved."
+msgstr ""
+
+#: ../framework/class-admin-settings.php:189
+msgid "Settings reseted."
+msgstr ""
+
+#: ../framework/class-admin-settings.php:208
+msgid "Save Options"
+msgstr ""
+
+#: ../framework/class-admin-settings.php:209
+msgid "Reset"
+msgstr ""
+
+#: ../inc/class-debug.php:62
+msgid "Theme Check"
+msgstr ""
+
+#: ../inc/class-debug.php:68
+msgid " hook was found."
+msgstr ""
+
+#: ../inc/class-debug.php:69
+msgid ""
+" hook is missing in the woocommerce templates of your theme. <a href="
+"\"http://fancyproductdesigner.com/woocommerce-plugin/documentation/"
+"troubleshooting/\" target=\"_blank\">Help me fixing it</a>."
+msgstr ""
+
+#: ../inc/class-debug.php:89
+msgid " filter was found."
+msgstr ""
+
+#: ../inc/class-debug.php:90
+msgid ""
+" filter is missing in the woocommerce templates of your theme. <a href="
+"\"http://fancyproductdesigner.com/woocommerce-plugin/documentation/"
+"troubleshooting/\" target=\"_blank\">Help me fixing it</a>."
+msgstr ""
+
+#: ../inc/class-debug.php:112
+msgid ""
+"If a hook or filter is missing in your theme, you can <a href=\"http://"
+"fancyproductdesigner.com/woocommerce-plugin/documentation/troubleshooting/"
+"\">try fo fix it by yourself</a>. This is a theme issue, because authors of "
+"themes should follow the woocommerce codex and should not remove the default "
+"woocommerce hooks in the templates files. If you can not fix it by yourself "
+"after reading the \"Troubleshooting\" page, please contact the theme author."
+"<br /><strong>I (developer of Fancy Product Designer) will not fix these "
+"issues for you.</strong>"
+msgstr ""
+
+#: ../inc/class-frontend-product.php:476
+msgid "Uploading"
+msgstr ""
+
+#: ../inc/class-frontend-product.php:492
+msgid "You need to be logged in to upload images!"
+msgstr ""
+
+#: ../inc/class-frontend-product.php:501
+msgid "Server error: Image could not be uploaded, please try again!"
+msgstr ""
+
+#: ../inc/class-frontend-product.php:590
+msgid "Image string is not a valid Data URL."
+msgstr ""
+
+#: ../inc/class-frontend-product.php:614
+msgid "Image could not be created. Please try again!"
+msgstr ""
+
+#: ../inc/class-frontend-product.php:854
+msgid "This file is not an image!"
+msgstr ""
+
+#: ../inc/class-frontend-product.php:866
+#, php-format
+msgid "Uploaded image is too big! Maximum image size is %d MB!"
+msgstr ""
+
+#: ../inc/class-frontend-product.php:875
+#, php-format
+msgid "The DPI of the uploaded image is too small! Minimum allowed DPI is %d."
+msgstr ""
+
+#: ../inc/class-frontend-product.php:967
+msgid "Sorry, but the cart item could not be found!"
+msgstr ""
+
+#: ../inc/class-frontend-product.php:1034
+msgid ""
+"The product is not created yet, try again when the product has been fully "
+"loaded into the designer"
+msgstr ""
+
+#: ../inc/class-frontend-product.php:1329
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+
+#: ../inc/class-frontend-product.php:1331
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+
+#: ../inc/class-frontend-product.php:1333
+msgid "The uploaded file was only partially uploaded"
+msgstr ""
+
+#: ../inc/class-frontend-product.php:1335
+msgid "No file was uploaded"
+msgstr ""
+
+#: ../inc/class-frontend-product.php:1337
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: ../inc/class-frontend-product.php:1339
+msgid "Failed to write file to disk"
+msgstr ""
+
+#: ../inc/class-frontend-product.php:1341
+msgid "File upload stopped by extension"
+msgstr ""
+
+#: ../inc/class-frontend-product.php:1343
+msgid "Unknown upload error"
+msgstr ""
+
+#: ../inc/class-shortcode-order.php:48
+#, php-format
+msgid "New Order received from %s"
+msgstr ""
+
+#: ../inc/class-shortcode-order.php:50
+#, php-format
+msgid "New Order received from %s."
+msgstr ""
+
+#: ../inc/class-shortcode-order.php:51
+#, php-format
+msgid "Order Details for #%d"
+msgstr ""
+
+#: ../inc/class-shortcode-order.php:53
+#, php-format
+msgid "Customer Name: %s"
+msgstr ""
+
+#: ../inc/class-shortcode-order.php:54
+#, php-format
+msgid "Customer Email: %s"
+msgstr ""
+
+#: ../inc/class-shortcode-order.php:56
+#, php-format
+msgid "View Order: %s"
+msgstr ""
+
+#: ../inc/settings/class-advanced-color-settings.php:17
+msgid "Hexadecimal Color Names"
+msgstr ""
+
+#: ../inc/settings/class-advanced-color-settings.php:18
+msgid ""
+"You can set custom names for your hexadecimal colors, that will be used in "
+"the tooltips, when using a predefined color palette."
+msgstr ""
+
+#: ../inc/settings/class-advanced-color-settings.php:42
+msgid "Enable for Texts"
+msgstr ""
+
+#: ../inc/settings/class-advanced-color-settings.php:43
+msgid "Use the color prices for all text elements."
+msgstr ""
+
+#: ../inc/settings/class-advanced-color-settings.php:50
+msgid "Enable for Images"
+msgstr ""
+
+#: ../inc/settings/class-advanced-color-settings.php:51
+msgid "Use the color prices for all image elements."
+msgstr ""
+
+#: ../inc/settings/class-advanced-color-settings.php:58
+msgid "Color Prices"
+msgstr ""
+
+#: ../inc/settings/class-advanced-color-settings.php:59
+msgid ""
+"You can set different prices based on the selected color. This works only "
+"for color palette, so if you define a range of allowed colors for an element."
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:42
+#: ../inc/settings/class-default-element-options-settings.php:341
+msgid ""
+"-1 means that the element will be added at the top. Any value higher than "
+"that will add the element to that z-position."
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:55
+#: ../inc/settings/class-default-element-options-settings.php:354
+msgid "Enter hex color(s) separated by comma."
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:64
+msgid ""
+"Enter the additional price for a design element. Use always a dot as decimal "
+"separator!"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:104
+#: ../inc/settings/class-default-element-options-settings.php:403
+msgid "Z-Changeable"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:134
+#: ../inc/settings/class-default-element-options-settings.php:478
+msgid "Use another element as bounding box?"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:151
+#: ../inc/settings/class-default-element-options-settings.php:494
+msgid ""
+"Enter the title of another element that should be used as bounding box for "
+"design elements."
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:214
+msgid "Filters"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:221
+msgid "Grayscale"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:222
+msgid "Sepia"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:223
+msgid "Sepia 2"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:234
+msgid "The minimum image width for uploaded designs from the customers."
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:247
+msgid "The minimum image height for uploaded designs from the customers."
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:260
+msgid "The maximum image width for uploaded designs from the customers."
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:273
+msgid "The maximum image height for uploaded designs from the customers."
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:286
+msgid ""
+"Resize the uploaded image to this width, when width is larger than height."
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:299
+msgid ""
+"Resize the uploaded image to this height, when height is larger than width."
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:315
+msgid "The x-position of the custom text element."
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:328
+msgid "The y-position of the custom text element."
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:363
+msgid ""
+"Enter the additional price for a text element. Always use a dot as decimal "
+"separator!"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:434
+msgid "Let the customer choose a pattern?"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:442
+msgid "Let the customer make the text curved?"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:449
+msgid "Curve Spacing"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:460
+msgid "Curve Radius"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:471
+msgid "Curve Reverse"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:557
+msgid "Default Text Size"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:558
+msgid "The default text size for all text elements."
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:570
+msgid "Default Font"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:571
+msgid ""
+"Enter the default font. If you leave it empty, the first font from the fonts "
+"dropdown will be used."
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:580
+msgid "You can limit the number of characters. 0 means unlimited characters."
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:588
+#: ../inc/settings/class-labels-settings.php:257
+#: ../inc/settings/class-labels-settings.php:261
+msgid "Alignment"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:596
+#: ../inc/settings/class-default-element-options-settings.php:612
+#: ../inc/settings/class-default-element-options-settings.php:625
+msgid "Center"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:605
+msgid "Origin-X Point"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:618
+msgid "Origin-Y Point"
+msgstr ""
+
+#: ../inc/settings/class-default-element-options-settings.php:626
+msgid "Top"
+msgstr ""
+
+#: ../inc/settings/class-fonts-settings.php:17
+msgid "Common Fonts"
+msgstr ""
+
+#: ../inc/settings/class-fonts-settings.php:27
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../inc/settings/class-fonts-settings.php:28
+msgid ""
+"Choose fonts from Google Webfonts. Using more than 3 fonts will cause your "
+"site to load more slowly. "
+msgstr ""
+
+#: ../inc/settings/class-fonts-settings.php:38
+msgid "Fonts Directory"
+msgstr ""
+
+#: ../inc/settings/class-fonts-settings.php:39
+msgid ""
+"You can add your own fonts to the fonts directory of the plugin, these font "
+"files need to be .woff files."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:17
+msgid "Product Designer Width"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:29
+msgid "Product Designer Stage Height"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:61
+msgid "View Selection Positioning"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:72
+msgid ""
+"Enable floating for the items in the view selection, so these are aligned in "
+"one line."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:79
+msgid "Product Designer Margin"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:96
+msgid "Hide On Smartphones"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:97
+#, php-format
+msgid ""
+"Hide product designer on smartphones and display an <a href=\"%s"
+"\">information</a> instead."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:104
+msgid "Hide On Tablets"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:105
+#, php-format
+msgid ""
+"Hide product designer on tablets and display an <a href=\"%s\">information</"
+"a> instead."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:112
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:113
+msgid "Add custom CSS to pages with the product designer enabled:"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:121
+msgid "Button CSS class"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:122
+msgid "The CSS button class."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:134
+msgid "Designer Primary Color"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:141
+msgid "Designer Secondary Color"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:148
+msgid "Designer Text Primary Color"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:155
+msgid "Designer Text Secondary Color"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:162
+msgid "Element Selected Color"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:169
+msgid "Bounding Box Color"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:176
+msgid "Out of Bounding Box Color"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:187
+msgid "Custom Image Upload"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:188
+msgid "Let customers upload their own images to products?"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:199
+msgid "Custom Text"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:200
+msgid "Let customers add their own text elements to products?"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:211
+msgid "Download Product Image"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:212
+msgid "Let customers download a product image?"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:219
+msgid "Save as PDF"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:220
+msgid "Let customers save the product as PDF?"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:227
+#: ../inc/settings/class-labels-settings.php:65
+#: ../inc/settings/class-labels-settings.php:69
+msgid "Print"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:228
+msgid "Let customers print the product?"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:235
+msgid "Allow Product Saving"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:236
+msgid "Let customers save their customized products?"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:243
+msgid "Tooltips"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:244
+msgid "Use tooltips in the product designer."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:255
+msgid "Image Uploader"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:259
+msgid ""
+"Filereader is a Javascript-based uploader, the image will not be uploaded to "
+"your server. The PHP uploader will upload the image to your server and saves "
+"it into wp-content/uploads/fancy_products_uploads/ directory."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:261
+msgid "Filereader Uploader"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:262
+msgid "PHP Uploader"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:279
+msgid "Maximum Image Size (MB)"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:280
+msgid "The maximum image size in Megabytes, when using the PHP uploader."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:292
+msgid "Minimum Allowed DPI"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:293
+msgid "The minimum allowed DPI, when using the PHP uploader."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:305
+msgid "Only logged-in users can upload images?"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:306
+msgid ""
+"Because the PHP uploader uploads the image to your web server, you can allow "
+"the image upload for logged-in users only."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:313
+msgid "Facebook App-ID"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:314
+msgid ""
+"To allow users to add photos from facebook, you have to enter a Facebook App-"
+"Id."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:322
+msgid "Instagram Client ID"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:323
+msgid ""
+"To allow users to add photos from instagram, you have to enter a Instagram "
+"Client ID."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:331
+msgid "Instagram Redirect URI"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:332
+msgid ""
+"This is the URI you need to paste in as OAuth Redirect URI when creating a "
+"Instagram Client ID. Do not change it!"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:340
+msgid "Zoom Factor"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:341
+msgid "The step for zooming in and out."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:352
+msgid "Maximum Zoom"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:353
+msgid ""
+"The maximum zoom when zooming in. Set it to \"1\" to disable the zoom "
+"feature."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:365
+msgid "Padding Controls"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:366
+msgid ""
+"The padding of the controls when an element is selected in the product stage."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:379
+msgid ""
+"When a product designer contains multiple Fancy Products and the customer "
+"adds custom elements to it and chooses another Fancy Product, only the "
+"initial elements will be replaced."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:386
+msgid "Lazy Load"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:387
+msgid ""
+"Enable lazy loading for the images in the products and designs containers."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:395
+msgid ""
+"Enable a \"Start Customizing\" Button, that will show the standard product "
+"first. The product designer will come up first, if the customer clicks on "
+"this button. Just enter a text for the button to enable this feature."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:404
+msgid ""
+"When using the \"Start Customizing\" button, open product designer in a "
+"lightbox."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:411
+msgid "Lightbox: Add to cart"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:412
+msgid ""
+"When clicking the submit button in the lightbox, add designed product "
+"directly into cart."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:419
+msgid "Use Label Settings"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:420
+msgid ""
+"Use the labels from the \"Labels\" settings page. If you want to translate "
+"the labels with a multilingual plugin like WPML, deactivate this option."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:431
+msgid "Debug Mode"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:432
+msgid "Enables Theme-Check modal and loads the unminified Javascript files."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:439
+msgid "jQuery No Conflict Mode"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:440
+msgid ""
+"Turns on the jQuery no conflict mode. Turn it on if you are facing some "
+"Javascript issues."
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:445
+msgid "On"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:446
+msgid "Off"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:463
+msgid "Shadow 1"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:464
+msgid "Shadow 2"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:465
+msgid "Shadow 3"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:466
+msgid "Shadow 4"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:467
+msgid "Shadow 5"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:468
+msgid "Shadow 6"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:469
+msgid "Shadow 7"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:470
+msgid "Shadow 8"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:471
+msgid "No Shadow "
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:483
+msgid "Dynamic"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:484
+msgid "Fixed Left"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:485
+msgid "Fixed Right"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:497
+msgid "Top-Right in Product Stage"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:498
+msgid "Top-Left in Product Stage"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:499
+msgid "Bottom-Right in Product Stage"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:500
+msgid "Bottom-Left in Product Stage"
+msgstr ""
+
+#: ../inc/settings/class-general-settings.php:501
+msgid "Under the Product Stage"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:17
+#: ../inc/settings/class-labels-settings.php:21
+msgid "Manage Layers"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:33
+#: ../inc/settings/class-labels-settings.php:37
+msgid "Change Products"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:41
+msgid "More"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:45
+msgid "Actions"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:49
+#: ../inc/settings/class-labels-settings.php:53
+msgid "Download PDF"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:57
+#: ../inc/settings/class-labels-settings.php:61
+msgid "Download Image"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:73
+#: ../inc/settings/class-labels-settings.php:77
+msgid "Save"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:89
+#: ../inc/settings/class-labels-settings.php:93
+msgid "Undo"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:97
+#: ../inc/settings/class-labels-settings.php:101
+msgid "Redo"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:105
+#: ../inc/settings/class-labels-settings.php:109
+msgid "Reset Product"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:113
+#: ../inc/settings/class-labels-settings.php:117
+msgid "Zoom"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:121
+#: ../inc/settings/class-labels-settings.php:125
+msgid "Pan"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:129
+msgid "Add your own Image"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:133
+msgid " Add your own Image"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:137
+#: ../inc/settings/class-labels-settings.php:141
+msgid "Add your own text"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:145
+#: ../inc/settings/class-labels-settings.php:149
+msgid "Enter your text"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:153
+msgid "Add photo from Facebook"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:157
+msgid "Add photo from facebook"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:161
+msgid "Add photo from Instagram"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:165
+msgid "Add photo from instagram"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:169
+#: ../inc/settings/class-labels-settings.php:173
+msgid "Choose from Designs"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:177
+#: ../inc/settings/class-labels-settings.php:181
+msgid "Edit Element"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:185
+#: ../inc/settings/class-labels-settings.php:189
+msgid "Fill Options"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:201
+#: ../inc/settings/class-labels-settings.php:205
+msgid "Patterns"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:217
+#: ../inc/settings/class-labels-settings.php:221
+msgid "Filter"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:225
+#: ../inc/settings/class-labels-settings.php:229
+msgid "Text Options"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:233
+#: ../inc/settings/class-labels-settings.php:237
+msgid "Change Text"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:241
+#: ../inc/settings/class-labels-settings.php:245
+msgid "Typeface"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:265
+#: ../inc/settings/class-labels-settings.php:269
+msgid "Align Left"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:273
+#: ../inc/settings/class-labels-settings.php:277
+msgid "Align Center"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:281
+#: ../inc/settings/class-labels-settings.php:285
+msgid "Align Right"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:297
+#: ../inc/settings/class-labels-settings.php:301
+msgid "Bold"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:305
+#: ../inc/settings/class-labels-settings.php:309
+msgid "Italic"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:313
+#: ../inc/settings/class-labels-settings.php:317
+msgid "Underline"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:321
+#: ../inc/settings/class-labels-settings.php:325
+msgid "Curved Text"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:329
+#: ../inc/settings/class-labels-settings.php:333
+msgid "Spacing"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:337
+#: ../inc/settings/class-labels-settings.php:341
+msgid "Radius"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:345
+#: ../inc/settings/class-labels-settings.php:349
+msgid "Reverse"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:353
+#: ../inc/settings/class-labels-settings.php:357
+msgid "Transform"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:377
+#: ../inc/settings/class-labels-settings.php:381
+msgid "Move Up"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:385
+#: ../inc/settings/class-labels-settings.php:389
+msgid "Move Down"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:409
+#: ../inc/settings/class-labels-settings.php:413
+msgid "Flip Horizontal"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:417
+#: ../inc/settings/class-labels-settings.php:421
+msgid "Flip Vertical"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:425
+#: ../inc/settings/class-labels-settings.php:429
+msgid "Reset Element"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:433
+msgid "Facebook: Select an album"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:437
+msgid "Select an album"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:441
+msgid "Instagram: My Feed"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:445
+msgid "My Feed"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:449
+msgid "Instagram: My Recent Images"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:453
+msgid "My Recent Images"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:457
+#: ../inc/settings/class-labels-settings.php:461
+msgid "Product Saved!"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:465
+#: ../inc/settings/class-labels-settings.php:469
+msgid "Lock"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:473
+#: ../inc/settings/class-labels-settings.php:477
+msgid "Unlock"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:489
+msgid "Move this element inside the containment area!"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:493
+msgid "Move it in his containment!"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:497
+#: ../inc/settings/class-labels-settings.php:501
+msgid "Initializing product designer"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:505
+msgid "Uploaded Images Category Title"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:509
+msgid "Your uploaded images"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:513
+msgid "Incorrect Image Size Alert"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:514
+msgid ""
+"This message will be displayed in the alert box, if the uploaded image does "
+"not has the required image dimensions.<br /><strong>Following placeholders "
+"can be used within the message</strong>:<ul><li>%minW: Minimum allowed image "
+"width.</li><li>%minH: Minimum allowed image height.</li><li>%maxW: Maximum "
+"allowed image width.</li><li>%maxH: Maximum allowed image height.</li></ul>"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:518
+msgid ""
+"Sorry! The image you have uploaded does not meet the size requirements.\n"
+"Minimum Width: %minW pixels\n"
+"Minimum Height: %minH pixels\n"
+"Maximum Width: %maxW pixels\n"
+"Maximum Height: %maxH pixels"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:530
+msgid "WooCommerce Catalog: Add To Cart Button"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:534
+msgid "Customize"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:538
+msgid "WooCommerce Order Email: View Customized Product"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:542
+msgid "View Customized Product"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:546
+msgid "Lightbox Submit Button"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:550
+msgid "Done"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:554
+msgid "Lightbox Cancel Button"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:558
+msgid "Cancel"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:562
+msgid "Shortcode Order: Successfully Sent"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:566
+msgid "The order has been successfully sent to the site owner!"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:570
+msgid "Shortcode Order: Sent Fail"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:574
+msgid ""
+"The order could not be sent. Please try again or contact the site owner!"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:578
+msgid "Not Supported Device Information"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:579
+msgid ""
+"The placeholder text to be displayed when Fancy Product Designer has been "
+"disabled for smart phones and tablets."
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:583
+msgid ""
+"Sorry! But the product designer has not been optimised for your device. "
+"Please use a device with a larger screen!"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:587
+msgid "Design Sharing: Share Design Button"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:591
+msgid "Share Design"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:595
+msgid "Design Sharing: Processing"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:599
+msgid "An unique URL to share will be created for you..."
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:603
+msgid "Design Sharing: Default Text"
+msgstr ""
+
+#: ../inc/settings/class-labels-settings.php:607
+msgid "Check out my design!"
+msgstr ""
+
+#: ../inc/settings/class-settings.php:35
+msgid "Default Element Options"
+msgstr ""
+
+#: ../inc/settings/class-settings.php:36
+msgid "Labels"
+msgstr ""
+
+#: ../inc/settings/class-settings.php:37
+msgid "Fonts"
+msgstr ""
+
+#: ../inc/settings/class-settings.php:38
+msgid "Advanced Color Config."
+msgstr ""
+
+#: ../inc/settings/class-settings.php:54
+msgid "Layout & Skin"
+msgstr ""
+
+#: ../inc/settings/class-settings.php:56
+msgid "User Interface"
+msgstr ""
+
+#: ../inc/settings/class-settings.php:57 ../inc/settings/class-settings.php:68
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../inc/settings/class-settings.php:58
+msgid "Troubleshooting"
+msgstr ""
+
+#: ../inc/settings/class-settings.php:62
+msgid "Custom Image Options"
+msgstr ""
+
+#: ../inc/settings/class-settings.php:64
+msgid "Common Options"
+msgstr ""
+
+#: ../inc/settings/class-settings.php:67
+msgid "Product Designer"
+msgstr ""
+
+#: ../inc/settings/class-settings.php:71
+msgid "Fonts for the typeface dropdown"
+msgstr ""
+
+#: ../inc/settings/class-settings.php:74
+msgid "Define names for your hexadecimal colors."
+msgstr ""
+
+#: ../inc/settings/class-settings.php:75
+msgid "Set own prices for your hexadecimal colors."
+msgstr ""
+
+#: ../inc/settings/class-settings.php:78
+msgid "Product Page"
+msgstr ""
+
+#: ../inc/settings/class-settings.php:79
+msgid "Design Sharing"
+msgstr ""
+
+#: ../inc/settings/class-settings.php:80
+msgid "Catalog Listing"
+msgstr ""
+
+#: ../inc/settings/class-settings.php:86
+msgid ""
+"The default options for custom uploaded images, facebook/instagram photos "
+"and Fancy Designs."
+msgstr ""
+
+#: ../inc/settings/class-settings.php:87
+msgid "The default options for uploaded images by the customer."
+msgstr ""
+
+#: ../inc/settings/class-settings.php:88
+msgid "The default options for added texts by the customer."
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:18
+msgid "The position of the product designer in the product page."
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:28
+msgid ""
+"Set a float position for the product designer container. Useful if you would "
+"like to position the summary beside the product designer."
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:41
+msgid "Hide product image in the product page."
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:53
+msgid ""
+"Forces the summary (includes i.e. product title, price, add-to-cart button) "
+"to be fullwidth."
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:64
+msgid "Lightbox: Update Product Image"
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:65
+msgid "When \"Done\" button is clicked, update the WooCommerce product image."
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:72
+msgid "\"Start Customizing\" Button Positioning"
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:73
+msgid ""
+"When the \"Start Customizing\" button is enabled, set the positiong in the "
+"product page of it."
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:78
+msgid "Under Short Description"
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:79
+msgid "After Add-to-Cart Button"
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:88
+msgid "Enable Design Sharing"
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:89
+msgid "Allow users to share their design on social networks."
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:100
+msgid "Cache Days"
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:101
+msgid ""
+"Whenever an user shares a design, an image and database entry will be "
+"created. To delete this data after a certain period of time, you can set the "
+"days of caching. A value of 0 will store the data forever."
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:112
+msgid "Social Networks"
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:133
+msgid "Customize Button Positioning"
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:134
+msgid "The position of the button in the catalog listing."
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:157
+msgid "Replace Product Image"
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:158
+msgid "Under Product Title"
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:159
+msgid "After Summary"
+msgstr ""
+
+#: ../inc/settings/class-wc-settings.php:160
+msgid "Custom Hook"
+msgstr ""

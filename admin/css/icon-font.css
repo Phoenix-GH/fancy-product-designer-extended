@@ -1,0 +1,94 @@
+@font-face {
+	font-family: 'fpd-wp';
+	src:url('fonts/fpd-wp.eot');
+	src:url('fonts/fpd-wp.eot') format('embedded-opentype'),
+		url('fonts/fpd-wp.woff') format('woff'),
+		url('fonts/fpd-wp.ttf') format('truetype'),
+		url('fonts/fpd-wp.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="fpd-admin-icon-"], [class*=" fpd-admin-icon-"] {
+	font-family: 'fpd-wp';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.fpd-admin-icon-info-outline:before {
+	content: "\e63a";
+}
+.fpd-admin-icon-lock:before {
+	content: "\e642";
+}
+.fpd-admin-icon-lock-open:before {
+	content: "\e643";
+}
+.fpd-admin-icon-settings:before {
+	content: "\e662";
+}
+.fpd-admin-icon-repeat:before {
+	content: "\e6c5";
+}
+.fpd-admin-icon-add-box:before {
+	content: "\e6ff";
+}
+.fpd-admin-icon-content-copy:before {
+	content: "\e706";
+}
+.fpd-admin-icon-template:before {
+	content: "\e70f";
+}
+.fpd-admin-icon-text-format:before {
+	content: "\e71e";
+}
+.fpd-admin-icon-originX-left:before {
+	content: "\e77e";
+}
+.fpd-admin-icon-originX-right:before {
+	content: "\e780";
+}
+.fpd-admin-icon-originX-center:before {
+	content: "\e783";
+}
+.fpd-admin-icon-format-align-center:before {
+	content: "\e784";
+}
+.fpd-admin-icon-format-align-left:before {
+	content: "\e786";
+}
+.fpd-admin-icon-format-align-right:before {
+	content: "\e787";
+}
+.fpd-admin-icon-format-bold:before {
+	content: "\e788";
+}
+.fpd-admin-icon-format-italic:before {
+	content: "\e78f";
+}
+.fpd-admin-icon-format-underline:before {
+	content: "\e799";
+}
+.fpd-admin-icon-mode-edit:before {
+	content: "\e7a4";
+}
+.fpd-admin-icon-cloud-download:before {
+	content: "\e7ae";
+}
+.fpd-admin-icon-remove-red-eye:before {
+	content: "\e851";
+}
+.fpd-admin-icon-close:before {
+	content: "\e8aa";
+}
+.fpd-admin-icon-layers:before {
+	content: "\e600";
+}

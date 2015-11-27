@@ -1,0 +1,116 @@
+/**************************
+**** SETTINGS *******
+**************************/
+
+.radykal-settings-form .radykal-section-title {
+	font-size: 16px;
+	font-style: italic;
+	font-weight: normal;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+
+.radykal-settings-form table {
+	background: #fff;
+	margin-bottom: 40px;
+}
+
+.radykal-settings-form table th {
+	padding-left: 20px;
+}
+
+.radykal-settings-form th {
+	font-weight: 300;
+}
+
+.radykal-settings-form textarea {
+	width: 500px;
+	height: 150px;
+	font-size: 12px;
+}
+
+/* ACE EDITOR */
+
+.radykal-option-type--ace-editor > label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+radykal-option-type--ace-editor .radykal-ace-editor {
+	position: relative;
+	min-height: 100px;
+}
+
+/* VALUES GROUP */
+
+.radykal-option-type--values-group table {
+	margin-bottom: 0;
+}
+
+.radykal-option-type--values-group thead th {
+	padding-top: 5px;
+	padding-left: 0;
+	text-align: center;
+	font-weight: normal;
+	font-size: 13px;
+	padding-bottom: 12px;
+}
+
+.radykal-option-type--values-group thead td {
+	padding-top: 0;
+	padding-left: 0;
+	padding-bottom: 6px;
+}
+
+.radykal-option-type--values-group thead td .radykal-values-group-prefix {
+	color: rgba(0,0,0,0.4);
+}
+
+.radykal-option-type--values-group thead td input.radykal-error {
+	background: #FFEBEE;
+}
+
+.radykal-option-type--values-group tbody tr {
+	list-style-type: decimal;
+}
+
+.radykal-option-type--values-group tbody td {
+	font-size: 12px;
+	padding: 5px 10px 5px 5px;
+	color: rgba(0,0,0,0.6);
+}
+
+.radykal-option-type--values-group tbody a {
+	text-decoration: none !important;
+}
+
+
+/* MULTI VALUES */
+
+.radykal-multi-values label {
+	font-size: 12px;
+}
+
+.radykal-multi-values input {
+	margin-right: 10px;
+	width: 60px;
+}
+
+
+/* SELECT" */
+
+.select2-drop {
+	z-index: 999999 !important;
+}
+
+.select2-search__field {
+	webkit-box-shadow: none !important;
+	box-shadow: none !important;
+}
+
+
+/* HELPERS */
+.radykal-hidden {
+	display: none !important;
+}

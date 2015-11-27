@@ -1,0 +1,120 @@
+@font-face {
+  font-family: "Arial";
+  src: local("#"), url("http://radykal.dev/wp/fpd/wp-content/uploads/fpd_fonts/Arial.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Carme";
+  src: local("#"), url("http://radykal.dev/wp/fpd/wp-content/uploads/fpd_fonts/Carme.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Copperplate Bold";
+  src: local("#"), url("http://radykal.dev/wp/fpd/wp-content/uploads/fpd_fonts/Copperplate_Bold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Custom Script";
+  src: local("#"), url("http://radykal.dev/wp/fpd/wp-content/uploads/fpd_fonts/Custom_Script.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "OpenSans";
+  src: local("#"), url("http://radykal.dev/wp/fpd/wp-content/uploads/fpd_fonts/OpenSans.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "PEPSI";
+  src: local("#"), url("http://radykal.dev/wp/fpd/wp-content/uploads/fpd_fonts/PEPSI.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "SansationBold";
+  src: local("#"), url("http://radykal.dev/wp/fpd/wp-content/uploads/fpd_fonts/SansationBold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Tequilla Sunrise";
+  src: local("#"), url("http://radykal.dev/wp/fpd/wp-content/uploads/fpd_fonts/Tequilla_Sunrise.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Varsity";
+  src: local("#"), url("http://radykal.dev/wp/fpd/wp-content/uploads/fpd_fonts/Varsity.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Vine Monograms";
+  src: local("#"), url("http://radykal.dev/wp/fpd/wp-content/uploads/fpd_fonts/Vine_Monograms.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Yearbook";
+  src: local("#"), url("http://radykal.dev/wp/fpd/wp-content/uploads/fpd_fonts/Yearbook.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "destroy";
+  src: local("#"), url("http://radykal.dev/wp/fpd/wp-content/uploads/fpd_fonts/destroy.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "fearless";
+  src: local("#"), url("http://radykal.dev/wp/fpd/wp-content/uploads/fpd_fonts/fearless.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "karmen";
+  src: local("#"), url("http://radykal.dev/wp/fpd/wp-content/uploads/fpd_fonts/karmen.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "karmen regular-webfont";
+  src: local("#"), url("http://radykal.dev/wp/fpd/wp-content/uploads/fpd_fonts/karmen_regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
