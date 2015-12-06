@@ -15,6 +15,8 @@ $load_saved_products = isset($_POST['loadProduct']) ? $_POST['loadProduct'] : 'L
 $undo_btn = isset($_POST['undoButton']) ? $_POST['undoButton'] : 'Undo';
 $redo_btn = isset($_POST['redoButton']) ? $_POST['redoButton'] : 'Redo';
 $reset_product_btn = isset($_POST['resetProductButton']) ? $_POST['resetProductButton'] : 'Reset Button';
+
+
 $zoom_btn = isset($_POST['zoomButton']) ? $_POST['zoomButton'] : 'Zoom';
 $pan_btn = isset($_POST['panButton']) ? $_POST['panButton'] : 'Pan';
 
@@ -121,6 +123,16 @@ $insta_recent_images_button = isset($_POST['instaRecentImagesButton']) ? $_POST[
 		<div class="fpd-reset-product fpd-btn fpd-tooltip" title="<?php echo $reset_product_btn; ?>">
 			<i class="fpd-icon-reset"></i>
 		</div>
+
+        <div class="fpd-red-button fpd-btn fpd-tooltip drawing-button" title="<?php echo "Red Button"; ?>">
+            <i class="fpd-icon-redbutton"></i>
+        </div>
+        <div class="fpd-blue-button fpd-btn fpd-tooltip drawing-button" title="<?php echo "Blue Button"; ?>">
+            <i class="fpd-icon-bluebutton"></i>
+        </div>
+        <div class="fpd-no-button fpd-btn fpd-tooltip drawing-button" title="<?php echo "No Button"; ?>">
+            <i class="fpd-icon-nobutton"></i>
+        </div>
 	</div>
 
 	<!-- Right -->

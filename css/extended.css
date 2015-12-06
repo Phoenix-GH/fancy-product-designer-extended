@@ -1,0 +1,34 @@
+/*External CSS by Eiji Kimura*/
+
+.fpd-red-button, .fpd-red-button:hover
+{
+    background:url('../images/fpd/01.png');
+
+}
+.fpd-icon-redbutton::before{
+    content: "\e";
+}
+
+.fpd-blue-button, .fpd-blue-button:hover
+{
+    background:url('../images/fpd/02.png');
+}
+.fpd-icon-bluebutton::before{
+    content: "\e";
+}
+
+.fpd-no-button, .fpd-no-button:hover
+{
+    background:url('../images/fpd/03.png');
+}
+.drawing-button
+{
+    background-size:100%;
+    width:25px;
+    background-repeat:no-repeat!important;
+}
+.fpd-icon-nobutton::before{
+    content: "\e";
+}
+
+

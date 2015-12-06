@@ -40,6 +40,8 @@ if(!class_exists('FPD_Scripts_Styles')) {
 			wp_register_style( 'fpd-fonts', content_url('/uploads/fpd_fonts/jquery.fancyProductDesigner-fonts.css', FPD_PLUGIN_ROOT_PHP), false, Fancy_Product_Designer::FPD_VERSION );
 			wp_register_style( 'fpd-plugins', plugins_url('/css/plugins.min.css', FPD_PLUGIN_ROOT_PHP), false, Fancy_Product_Designer::FPD_VERSION );
 			wp_register_style( 'fpd-jquery-ui', plugins_url('/css/jquery-ui.css', FPD_PLUGIN_ROOT_PHP), false, Fancy_Product_Designer::FPD_VERSION );
+            wp_register_style( 'extended', plugins_url('/css/extended.css', FPD_PLUGIN_ROOT_PHP), false, '0.0.1' );
+            wp_enqueue_style( 'extended' );
 			wp_register_style( 'jquery-fpd', $fpd_css_url, array(
 				'fpd-fonts',
 				'fpd-jquery-ui'
@@ -56,7 +58,7 @@ if(!class_exists('FPD_Scripts_Styles')) {
 
 			wp_register_script( 'fabric', plugins_url('/js/fabric.js', FPD_PLUGIN_ROOT_PHP), false, Fancy_Product_Designer::FPD_VERSION );
 			wp_register_script( 'fpd-jquery-form', plugins_url('/js/jquery.form.min.js', FPD_PLUGIN_ROOT_PHP) );
-
+            wp_register_script( 'extended', plugins_url('/js/extended.js', FPD_PLUGIN_ROOT_PHP), false, '0.1.0'  );
 			$fpd_dep = array(
 				'jquery',
 				'jquery-ui-draggable',
@@ -64,6 +66,7 @@ if(!class_exists('FPD_Scripts_Styles')) {
 				'jquery-ui-sortable',
 				'jquery-ui-slider',
 				'fabric',
+                'extended',
 			);
 
 			if( get_option('fpd_debug_mode') == 'yes' || $local_test )
