@@ -58,7 +58,9 @@ if(!class_exists('FPD_Scripts_Styles')) {
 
 			wp_register_script( 'fabric', plugins_url('/js/fabric.js', FPD_PLUGIN_ROOT_PHP), false, Fancy_Product_Designer::FPD_VERSION );
 			wp_register_script( 'fpd-jquery-form', plugins_url('/js/jquery.form.min.js', FPD_PLUGIN_ROOT_PHP) );
+            wp_register_script( 'sketch', plugins_url('/js/sketch.js', FPD_PLUGIN_ROOT_PHP), false, '0.1.0'  );
             wp_register_script( 'extended', plugins_url('/js/extended.js', FPD_PLUGIN_ROOT_PHP), false, '0.1.0'  );
+
 			$fpd_dep = array(
 				'jquery',
 				'jquery-ui-draggable',
@@ -66,7 +68,8 @@ if(!class_exists('FPD_Scripts_Styles')) {
 				'jquery-ui-sortable',
 				'jquery-ui-slider',
 				'fabric',
-                'extended',
+                'sketch',
+                'extended'
 			);
 
 			if( get_option('fpd_debug_mode') == 'yes' || $local_test )

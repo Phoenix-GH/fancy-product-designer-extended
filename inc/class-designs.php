@@ -44,7 +44,7 @@ if( !class_exists('FPD_Designs') ) {
 							 'orderby' => 'menu_order',
 							 'order' => 'ASC',
 							 'fpd_design_category' => $category_term->slug
-						);
+			 			);
 						$designs = get_posts( $args );
 
 						//category parameters
